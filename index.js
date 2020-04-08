@@ -1,6 +1,5 @@
 // Your code here
 
-
 function createEmployeeRecord(empArray) {
   return {
     firstName: empArray[0],
